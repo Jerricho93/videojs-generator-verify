@@ -53,6 +53,26 @@
       "pre-commit": "lint-staged"
     }
   },
+  "overrides": {
+    "handlebars": "^4.7.9",
+    "semver": "^7.6.0",
+    "underscore": "^1.13.8",
+    "lodash": "^4.18.1",
+    "braces": "^3.0.3",
+    "cross-spawn": "^7.0.6",
+    "flatted": "^3.4.2",
+    "minimatch": "^10.0.0",
+    "picomatch": "^4.0.4",
+    "yaml": "^2.9.0",
+    "tmp": "^0.2.5",
+    "ajv": "^8.20.0",
+    "js-yaml": "^4.1.1",
+    "micromatch": "^4.0.8",
+    "trim": "^1.0.1",
+    "word-wrap": "^1.2.5",
+    "minimist": "^1.2.8",
+    "got": "^11.8.6"
+  },
   "bugs": {
     "url": "https://github.com/videojs/videojs-generator-verify/issues"
   },
